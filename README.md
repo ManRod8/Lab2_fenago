@@ -14,19 +14,20 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 1. Open following URL in browser, click **Fork** and open the link in a new tab.
    `https://github.com/fenago/introduction-to-github`
+   http://github added.
 
    ![](./images/1.jpg)
-2. In the new tab, follow the prompts to create a new repository.
+3. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
    
-   ![](./images/2.jpg)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+   ![](./images/2.jps)
+4. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <summary><h2>Step 1: Create a branch</h2></summary>
 
 _Welcome to "Introduction to GitHub"! :wave:_
 
-**What is GitHub?**: GitHub is a collaboration platform that uses Git for versioning. GitHub is a popular place to share and contribute to open-source software.
+**What is GitHub?**: HitHub is a collaboration platform that uses Git for versioning. GitHub is a popular place to share and contribute to open-source software.
 
 **What is a repository?**: A `repository` is a project containing files and folders. A repository tracks versions of files and folders.
 
